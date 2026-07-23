@@ -1,0 +1,37 @@
+{
+  "ComputerName": "WS-042",
+  "WindowsVersion": "Microsoft Windows 11 Enterprise",
+  "OSVersion": "10.0.26100",
+  "Manufacturer": "Dell Inc.",
+  "Model": "Latitude 5440",
+  "BIOSVersion": "1.12.0",
+  "CPU": "Intel(R) Core(TM) i7-1365U",
+  "TotalRAMGB": 16,
+  "DiskSpace": [
+    {
+      "DeviceID": "C:",
+      "VolumeName": "OS",
+      "TotalCapacityGB": 476.12,
+      "FreeCapacityGB": 171.13,
+      "PercentFree": 35.94
+    }
+  ],
+  "IPConfiguration": [
+    {
+      "Description": "Intel(R) Wi-Fi 6E AX211 160MHz",
+      "MACAddress": "00-11-22-33-44-55",
+      "IPAddress": [
+        "192.168.1.24"
+      ],
+      "DefaultIPGateway": [
+        "192.168.1.1"
+      ],
+      "DNSServerSearchOrder": [
+        "1.1.1.1",
+        "8.8.8.8"
+      ]
+    }
+  ],
+  "LoggedInUser": "CONTOSO\\tech.user",
+  "LastBootTime": "2026-07-21T08:42:17"
+}

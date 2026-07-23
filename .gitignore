@@ -1,0 +1,15 @@
+# Generated exports
+*-workstation-inventory.json
+*-workstation-inventory.csv
+ad-user-inventory.csv
+inventory-test.json
+
+# PowerShell and editor noise
+*.log
+*.tmp
+*.bak
+Thumbs.db
+Desktop.ini
+
+# Local editor settings
+.vscode/

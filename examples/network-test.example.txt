@@ -1,0 +1,7 @@
+[PASS] Local TCP/IP stack
+[PASS] Default gateway reachable
+[PASS] External IP reachable
+[FAIL] DNS resolution
+Likely issue: Configured DNS server or DNS client cache issue
+[PASS] Target reachable
+[PASS] TCP port 443 reachable
